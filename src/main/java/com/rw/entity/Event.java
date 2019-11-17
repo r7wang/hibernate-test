@@ -1,4 +1,4 @@
-package com.rw;
+package com.rw.entity;
 import java.util.Date;
 import javax.persistence.Column;
 import javax.persistence.Entity;
